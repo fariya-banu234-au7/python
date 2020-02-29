@@ -18,7 +18,7 @@ Print a single integer denoting the index of the last occurrence of integer M in
 # SAMPLE OUTPUT 
 # 5"""
 
-
+  
 #Code
 
 n, m = list(map(int,input("Enter the size of array and the target element:  ").split()))
