@@ -9,9 +9,7 @@ for i in range(0,n):
         
     [a[i], a[min]] = [a[min],a[i]]
     print(a[0],a[5])
-    # temp = a[i]
-    # a[i] = a[min]
-    # a[min] = temp
+    
 print(a)
 
 
